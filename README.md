@@ -1,5 +1,5 @@
 # TrafficEnquiries
-
+- This plugin provide custom listing for custom table in WordPress admin, it also have export all the inquiries in csv format
 A customizeable plugin to show listing on wordpress admin.
 - Simply download zip file and upload in wordpress `wp-content/plugins` folder and extract.
 - Go to wordpress admin and activate the plugin.
