@@ -1,0 +1,8 @@
+/*
+div.row-actions{display: none !important;}*/
+p > span.align-right {float: right;display: inline-block}
+.custom_list_header {border-left-color:#3b7ce4 !important;padding: 10px !important;;}
+.custom_list_header p{margin: 0;padding: 0;}
+.custom_list_header p span{float: right;width: auto;margin: 0;padding: 0;}
+.custom_listing_table table tr th {text-transform: capitalize;}
+.content-one {display: none;}
